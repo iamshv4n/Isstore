@@ -6,12 +6,12 @@
 <dict>
 <key>default</key>
 <string>کۆگای IS-STORE
-تایبەت بە یاری و بەرنامەی مۆد کراو بۆ ئایفۆن و ئایپاد بەبێ سیدیا و کۆمپیتەر 
+‎تایبەت بە یاری و بەرنامەی مۆد کراو بۆ ئایفۆن و ئایپاد بەبێ سیدیا و کۆمپیتەر 
 
-لەگەل IS STORE  چیتر پێویستت بە 
-سیدیا و کۆمپیتەر نابێت
+‎لەگەل IS-STORE چیتر پێویستت بە 
+‎سیدیا و کۆمپیتەر نابێت
 
-special for games and mode programs for iPhones and</string>
+special for games and mode progr</string>
 </dict>
  <key>PayloadContent</key>
  <array>
@@ -30,20 +30,14 @@ special for games and mode programs for iPhones and</string>
      <string>Web Clip (IS-STORE)</string>
      <key>PayloadIdentifier</key>
      <string>کۆگای IS-STORE
-تایبەت بە یاری و بەرنامەی مۆد کراو بۆ ئایفۆن و ئایپاد بەبێ سیدیا و کۆمپیتەر 
+‎تایبەت بە یاری و بەرنامەی مۆد کراو بۆ ئایفۆن و ئایپاد بەبێ سیدیا و کۆمپیتەر 
 
-لەگەل IS STORE  چیتر پێویستت بە 
-سیدیا و کۆمپیتەر نابێت
+‎لەگەل IS-STORE چیتر پێویستت بە 
+‎سیدیا و کۆمپیتەر نابێت
 
-special for games and mode programs for iPhones and</string>
+special for games and mode progr</string>
      <key>PayloadOrganization</key>
-     <string>کۆگای IS-STORE
-تایبەت بە یاری و بەرنامەی مۆد کراو بۆ ئایفۆن و ئایپاد بەبێ سیدیا و کۆمپیتەر 
-
-لەگەل IS STORE  چیتر پێویستت بە 
-سیدیا و کۆمپیتەر نابێت
-
-special for games and mode programs for iPhones and</string>
+     <string>IS-STORE</string>
      <key>PayloadType</key>
      <string>com.apple.webClip.managed</string>
      <key>PayloadUUID</key>
@@ -58,30 +52,24 @@ special for games and mode programs for iPhones and</string>
  </array>
  <key>PayloadDescription</key>
  <string>کۆگای IS-STORE
-تایبەت بە یاری و بەرنامەی مۆد کراو بۆ ئایفۆن و ئایپاد بەبێ سیدیا و کۆمپیتەر 
+‎تایبەت بە یاری و بەرنامەی مۆد کراو بۆ ئایفۆن و ئایپاد بەبێ سیدیا و کۆمپیتەر 
 
-لەگەل IS STORE  چیتر پێویستت بە 
-سیدیا و کۆمپیتەر نابێت
+‎لەگەل IS-STORE چیتر پێویستت بە 
+‎سیدیا و کۆمپیتەر نابێت
 
-special for games and mode programs for iPhones and</string>
+special for games and mode progr</string>
  <key>PayloadDisplayName</key>
- <string>IS STORE</string>
+ <string>IS-STORE</string>
  <key>PayloadIdentifier</key>
  <string>کۆگای IS-STORE
-تایبەت بە یاری و بەرنامەی مۆد کراو بۆ ئایفۆن و ئایپاد بەبێ سیدیا و کۆمپیتەر 
+‎تایبەت بە یاری و بەرنامەی مۆد کراو بۆ ئایفۆن و ئایپاد بەبێ سیدیا و کۆمپیتەر 
 
-لەگەل IS STORE  چیتر پێویستت بە 
-سیدیا و کۆمپیتەر نابێت
+‎لەگەل IS-STORE چیتر پێویستت بە 
+‎سیدیا و کۆمپیتەر نابێت
 
-special for games and mode programs for iPhones and</string>
+special for games and mode progr</string>
  <key>PayloadOrganization</key>
- <string>کۆگای IS-STORE
-تایبەت بە یاری و بەرنامەی مۆد کراو بۆ ئایفۆن و ئایپاد بەبێ سیدیا و کۆمپیتەر 
-
-لەگەل IS STORE  چیتر پێویستت بە 
-سیدیا و کۆمپیتەر نابێت
-
-special for games and mode programs for iPhones and</string>
+ <string>IS-STORE</string>
  <key>PayloadRemovalDisallowed</key>
  <false/>
  <key>PayloadType</key>
