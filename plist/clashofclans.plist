@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://archive.org/download/video-star-pro-omko-store_202308/Video%20Star%20Pro%20OMKO%20STORE.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<false/>
+					<key>url</key>
+					<string>https://archive.org/download/video-star-pro-omko-store_202308/Video%20Star%20Pro%20OMKO%20STORE.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<false/>
+					<key>url</key>
+					<string>https://archive.org/download/clash-of-clans-vak-ipa-15.352.8/Clash%20Of%20Clans%20-%20VAK%20IPA%20%5B15.352.8%5D.ipa</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>nt.nc.ios</string>
+				<key>bundle-version</key>
+				<string>438</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>subtitle</key>
+				<string>clash of clans</string>
+				<key>title</key>
+				<string>📥clash of clans📥
+
+‎تایەبەتە بە چەناڵی
+
+✔️IS STORE✔️	
+
+لەتێلێگرام
+
+</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
