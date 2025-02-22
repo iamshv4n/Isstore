@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<?php
+// Load all backgrounds
+$bgsJson = file_get_contents('backgrounds.json', true);
+$bgs = json_decode($bgsJson);
+?>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="title" content="<?= $title; ?>" />
+        <meta name="description" content="<?= $title; ?> - Prayer Times and Adhan Player" />
+        <title><?= $title; ?> - Prayer Times and Adhan Player</title>
+        <link rel="stylesheet" href="https://cdn.aladhan.com/js/bootstrap/3.3.7/css/bootstrap.min.css">
+        <link href="/css/sticky-footer.css?v=1" rel="stylesheet">
+        <link rel="stylesheet" href="/css/bootstrap.css?v=1">
+        <link rel="stylesheet" href="/css/aladhan.css?v=5">
+        <script src="https://cdn.aladhan.com/js/jquery-3.1.1.min.js"></script>
+        <script src="https://cdn.aladhan.com/js/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    </head>
+        <body style="background-image: url('//cdn.aladhan.com/images/background.jpg'); background-size: cover;">
+        <!-- Notice bar
+        <div class="notification-top-bar">
+            <p>Saudi Arabia has announced Friday, April 21, as the 1st of Shawwal and Eid al Fitr. <a href="https://community.islamic.network/d/49-eid-al-fitr-2023" target="_blank">More details</a></p>
+        </div>
+        -->
+        <!-- Google tag (gtag.js) -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-ENFFXB1ZME"></script>
+        <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-ENFFXB1ZME');
+        </script>
+
+        <!-- Assign JS variables for app.js to load backgrounds -->
+        <script>
+            var bgsJson = <?=$bgsJson;?>
+        </script>
